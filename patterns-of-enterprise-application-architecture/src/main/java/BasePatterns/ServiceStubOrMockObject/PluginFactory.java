@@ -3,6 +3,7 @@ package BasePatterns.ServiceStubOrMockObject;
 import java.util.Properties;
 
 /**
+ * Factory
  * @author <a href="kayvanfar.sj@gmail.com">Saeed Kayvanfar</a> on 1/20/2017.
  */
 public class PluginFactory {
