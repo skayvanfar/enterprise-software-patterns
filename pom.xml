@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>gang-of-four</module>
+        <module>patterns-of-enterprise-application-architecture</module>
     </modules>
     <packaging>pom</packaging>
 
