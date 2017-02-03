@@ -6,6 +6,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="patterns-of-enterprise-application-architecture" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/patterns-of-enterprise-application-architecture/target/patterns-of-enterprise-application-architecture/META-INF/MANIFEST.MF" />
