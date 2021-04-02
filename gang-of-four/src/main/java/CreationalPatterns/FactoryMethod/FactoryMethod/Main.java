@@ -1,7 +1,7 @@
-package CreationalPatterns.FactoryMethod.MainForm;
+package CreationalPatterns.FactoryMethod.FactoryMethod;
 
-import CreationalPatterns.FactoryMethod.MainForm.Factory.Application;
-import CreationalPatterns.FactoryMethod.MainForm.Factory.MyApplication;
+import CreationalPatterns.FactoryMethod.FactoryMethod.Factory.Application;
+import CreationalPatterns.FactoryMethod.FactoryMethod.Factory.MyApplication;
 
 /**
  * @author <a href="kayvanfar.sj@gmail.com">Saeed Kayvanfar</a> on 9/28/2016

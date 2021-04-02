@@ -1,4 +1,4 @@
-package CreationalPatterns.FactoryMethod.MainForm;
+package CreationalPatterns.FactoryMethod.FactoryMethod;
 
 /**
  * Abstract base class declared by framework

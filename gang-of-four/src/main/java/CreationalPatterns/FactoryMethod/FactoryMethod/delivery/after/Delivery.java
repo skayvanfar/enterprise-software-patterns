@@ -1,6 +1,6 @@
-package CreationalPatterns.FactoryMethod.MainForm.delivery.after;
+package CreationalPatterns.FactoryMethod.FactoryMethod.delivery.after;
 
-import CreationalPatterns.FactoryMethod.MainForm.delivery.Vehicle;
+import CreationalPatterns.FactoryMethod.FactoryMethod.delivery.Vehicle;
 
 public abstract class Delivery {
     public abstract Vehicle makeVehicle();

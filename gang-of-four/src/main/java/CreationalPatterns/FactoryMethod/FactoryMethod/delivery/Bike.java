@@ -1,4 +1,4 @@
-package CreationalPatterns.FactoryMethod.MainForm.delivery;
+package CreationalPatterns.FactoryMethod.FactoryMethod.delivery;
 
 public class Bike implements Vehicle {
 

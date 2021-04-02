@@ -1,8 +1,8 @@
 package CreationalPatterns.FactoryMethod.SimpleFactoryMethod.before;
 
-import CreationalPatterns.FactoryMethod.MainForm.delivery.Bike;
-import CreationalPatterns.FactoryMethod.MainForm.delivery.Car;
-import CreationalPatterns.FactoryMethod.MainForm.delivery.Vehicle;
+import CreationalPatterns.FactoryMethod.FactoryMethod.delivery.Bike;
+import CreationalPatterns.FactoryMethod.FactoryMethod.delivery.Car;
+import CreationalPatterns.FactoryMethod.FactoryMethod.delivery.Vehicle;
 
 public class Delivery {
 
