@@ -1,4 +1,4 @@
-package CreationalPatterns.FactoryMethod.MainForm;
+package CreationalPatterns.FactoryMethod.FactoryMethod;
 
 /**
  * Concrete derived class defined by client

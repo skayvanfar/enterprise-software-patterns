@@ -1,7 +1,7 @@
-package CreationalPatterns.FactoryMethod.MainForm.Factory;
+package CreationalPatterns.FactoryMethod.FactoryMethod.Factory;
 
-import CreationalPatterns.FactoryMethod.MainForm.Document;
-import CreationalPatterns.FactoryMethod.MainForm.MyDocument;
+import CreationalPatterns.FactoryMethod.FactoryMethod.Document;
+import CreationalPatterns.FactoryMethod.FactoryMethod.MyDocument;
 
 /**
  * Customization of framework defined by client
