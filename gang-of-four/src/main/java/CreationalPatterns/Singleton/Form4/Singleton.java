@@ -1,6 +1,8 @@
 package CreationalPatterns.Singleton.Form4;
 
 /**
+ * "Double-Checked Locking" idiom
+ *
  * @author <a href="kayvanfar.sj@gmail.com">Saeed Kayvanfar</a> on 9/28/2016.
  */
 public class Singleton {
